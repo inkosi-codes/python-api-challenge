@@ -14,3 +14,7 @@ All data from DataFrame is exported and saved as a csv for WeatherPy.
 
 ## Part 2
 ### Using the saved data create Google maps
+
+![alt text](\Resources\heatmap.png)
+
+![alt text](\Resources\heatmap_wpindata.png)
